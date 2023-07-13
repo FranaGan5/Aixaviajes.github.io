@@ -1,13 +1,14 @@
-# **Aixa Viajes**  :palm_tree: :ocean:
+# **<p align="center">  Aixa Viajes  :palm_tree: :ocean:</p>**
 
-Primer proyecto web realizado para una agencia de viajes con HTML Y CSS. :computer: :art:
+<p align="center">  Primer proyecto web realizado para una agencia de viajes con HTML Y CSS. :computer: :art: </p>
 
 
 ![alt text](https://github.com/FranaGan5/aixaviajes.github.io/blob/main/aixa.jpg?raw=true)
 
+<p align="right"> :purple_heart: :star: Touch the star :star: :purple_heart: </p>
 
 
-:purple_heart: :star: Dale amor con un favorito para seguir creciendo :star: :purple_heart:
+
 
 <!--
 **FranaGan5/FranaGan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
