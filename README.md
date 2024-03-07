@@ -1,6 +1,6 @@
 # **<p align="center">  Aixa Viajes  :palm_tree: :ocean:</p>**
 
-<p align="center">  Primer proyecto web realizado para una agencia de viajes con HTML Y CSS. :computer: :art: </p>
+<p align="center">  Proyecto realizado para una agencia de viajes ficticia utilizando HTML Y CSS. :computer: :art: </p>
 
 
 ![alt text](https://github.com/FranaGan5/aixaviajes.github.io/blob/main/aixa.jpg?raw=true)
